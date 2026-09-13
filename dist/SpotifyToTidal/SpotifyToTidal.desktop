@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Spotify To Tidal
+Comment=Exporta playlists de Spotify a Tidal
+Exec="/home/tadeov/Desktop/Spotify To Tidal/run_spotify_to_tidal.sh"
+Path=/home/tadeov/Desktop/Spotify To Tidal
+Terminal=false
+Categories=AudioVideo;Audio;
