@@ -14,15 +14,6 @@ Herramienta en Python para migrar tus playlists de **Spotify** a **Tidal** de fo
 
 ---
 
-### Instrucciones de uso rápido
-
-1. Descarga y extrae el archivo comprimido:
-   ```bash
-   tar -xvf spotify2tidal-linux.tar.gz
-   cd spotify2tidal-linux 
-
----
-
 ## Requisitos Previos
 
 * Cuenta activa en Spotify developer y Tidal.
