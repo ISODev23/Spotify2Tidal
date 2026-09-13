@@ -1,0 +1,9 @@
+music-venv/
+build/
+dist/
+__pycache__/
+.cache
+.cache-*
+data.json
+tidal-session.json
+*.pyc
