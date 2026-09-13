@@ -10,13 +10,7 @@ Herramienta en Python para migrar tus playlists de **Spotify** a **Tidal** de fo
 * **Autenticación Actualizada:** Se corrigió y actualizó el método de autenticación con Tidal para garantizar compatibilidad y estabilidad.
 * **Selección Interactiva de Playlists:** Obtiene el listado completo de playlists vinculadas a tu cuenta de Spotify y las presenta en un menú enumerado. Solo seleccionas el número de índice de la lista que deseas transferir.
 * **Flujo OAuth Eficiente:** En el primer uso se abrirá una ventana en el navegador para autorizar el acceso en ambas plataformas. Las credenciales de sesión se guardan localmente para no solicitar autenticación en posteriores ejecuciones.
-* El proyecto contiene un ejecutable directo para su uso
-
- ## Descarga directa (Binario listo para usar)
-
-Si no quieres instalar Python ni configurar dependencias, descarga la versión compilada para Linux:
-
-[![Descargar v1.0.0](https://img.shields.io/badge/Descargar-Linux%20x86__64-brightgreen?style=for-the-badge&logo=linux)](https://github.com/ISODev23/Spotify2Tidal/releases/latest/download/spotify2tidal-linux.tar.gz)
+* El proyecto contiene un ejecutable directo para su uso en el directorio [Spotify2Tidal](https://github.com/ISODev23/Spotify2Tidal/tree/39cb43023dc091c860738f538878ab458868382e/ejecutable)
 
 ---
 
