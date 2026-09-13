@@ -24,5 +24,5 @@ Herramienta en Python para migrar tus playlists de **Spotify** a **Tidal** de fo
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/spotify2tidal.git](https://github.com/tu-usuario/spotify2tidal.git)
+   git clone https://github.com/tu-usuario/spotify2tidal.git
    cd spotify2tidal
