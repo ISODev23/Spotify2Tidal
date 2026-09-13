@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Spotify To Tidal
+Comment=Exporta playlists de Spotify a Tidal
+Exec="/home/tadeov/Desktop/Spotify To Tidal/dist/SpotifyToTidal/SpotifyToTidal"
+Path=/home/tadeov/Desktop/Spotify To Tidal/dist/SpotifyToTidal
+Terminal=true
+Categories=AudioVideo;Audio;
