@@ -1,0 +1,64 @@
+('/home/tadeov/Desktop/Spotify To '
+ 'Tidal/build/SpotifyToTidal/SpotifyToTidal.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/home/tadeov/Desktop/Spotify To Tidal/build/SpotifyToTidal/PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/build/SpotifyToTidal/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/build/SpotifyToTidal/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/build/SpotifyToTidal/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/build/SpotifyToTidal/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/music-venv/lib/python3.14/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/music-venv/lib/python3.14/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside6',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/music-venv/lib/python3.14/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pyside6.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/music-venv/lib/python3.14/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/music-venv/lib/python3.14/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   '/home/tadeov/Desktop/Spotify To '
+   'Tidal/music-venv/lib/python3.14/site-packages/PyInstaller/hooks/rthooks/pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('main', '/home/tadeov/Desktop/Spotify To Tidal/main.py', 'PYSOURCE')],
+ 'libpython3.14.so.1.0',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
